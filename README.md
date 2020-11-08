@@ -1,2 +1,2 @@
-# OOP244-Attic
+# Code-Attic
 This folder, Attic, contains code fragments. Like most attics, this attic needs a good cleaning.
